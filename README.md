@@ -1,7 +1,6 @@
 ### Hi there, I'm David 👋
 
-<!--
-**davidrosado4/davidrosado4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Learn about me!
 
@@ -11,4 +10,3 @@ Learn about me!
 - 💬 Ask me about anything you want, I'll always try to help
 - 📫 How to reach me: rosadodav4@gmail.com
 - ⚡ Fun fact: Tuesday and Thursday afternoons I am playing beach volleyball.
--->
