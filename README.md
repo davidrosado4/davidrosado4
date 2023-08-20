@@ -48,10 +48,6 @@
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 
 
-## Stats
-
-[![David's github stats](https://github-readme-stats.vercel.app/api?username=davidrosado4&theme=dark)](https://github.com/davidrosado4)
-
 
 ## Linkedin profile:
 
