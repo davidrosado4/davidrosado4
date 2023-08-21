@@ -53,8 +53,4 @@
 
 ## Linkedin profile:
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/davidrosadorodriguez/">
-  <a href="https://www.linkedin.com/in/davidrosadorodriguez/"><img src="https://img.shields.io/badge/LinkedIn-David-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/davidrosadorodriguez/"></a>
-  </br>
-</p>
+[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/davidrosadorodriguez/) 
