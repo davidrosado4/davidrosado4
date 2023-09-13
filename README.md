@@ -3,7 +3,7 @@
 
 ## Learn about me!
 
-- 🔭 I’m currently working at Agència de Ciberseguretat de Catalunya, developing my final master's thesis.
+- 🔭 I’m currently working at [Agència de Ciberseguretat de Catalunya](https://ciberseguretat.gencat.cat/es/inici/index.html), developing my final master's thesis.
 - 🌱 I’m currently enrolled in a double Master's degree in Advanced Mathematics and Data Science at University of Barcelona
 - 👯 I’m looking to collaborate on ML projects.
 - 💬 Ask me about anything you want, I'll always try to help.
