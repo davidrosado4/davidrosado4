@@ -49,12 +49,10 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 
-# GitHub Stats:
+# GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=davidrosado4&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidrosado4&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidrosado4&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 
 ## Linkedin profile
