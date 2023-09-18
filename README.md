@@ -49,15 +49,20 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 
-# GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=davidrosado4&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidrosado4&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidrosado4&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-## Linkedin profile
 
-[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/davidrosadorodriguez/) 
+## Connect with me
+<p align="left">
+<a href="https://twitter.com/rosadodav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rosadodav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/davidrosadorodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidrosadorodriguez" height="30" width="40" /></a>
+<a href="https://kaggle.com/davidrosado4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="davidrosado4" height="30" width="40" /></a>
+<a href="https://instagram.com/david.rr4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david.rr4" height="30" width="40" /></a>
+</p>
 
 
 
