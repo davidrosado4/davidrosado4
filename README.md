@@ -35,6 +35,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-EE4C2C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-41A48D?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-013243?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
