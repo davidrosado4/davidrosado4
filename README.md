@@ -2,7 +2,7 @@
 
 ## Learn about me!
 
-- 🔭 I’m currently working at [Agència de Ciberseguretat de Catalunya](https://ciberseguretat.gencat.cat/es/inici/index.html) with the signature of [PwC](https://www.pwc.es/)
+- 🔭 I’m currently working at [Agència de Ciberseguretat de Catalunya](https://ciberseguretat.gencat.cat/ca/inici) with the signature of [PwC](https://www.pwc.es/)
 - 🌱 I'm a Mathematician and Data Scientist
 - 👯 I'm always willing to collaborate on any mathematics or ML project.
 - 💬 Ask me about anything you want, I'll always try to help.
