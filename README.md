@@ -2,12 +2,13 @@
 
 ## Learn about me!
 
-- 🔭 I’m currently working at [Agència de Ciberseguretat de Catalunya](https://ciberseguretat.gencat.cat/ca/inici) with the signature of [PwC](https://www.pwc.es/)
+- 🔭 I’m currently working at [Cetaqua](https://www.cetaqua.com/) as a Data Scientist.
 - 🌱 I'm a Mathematician and Data Scientist
 - 👯 I'm always willing to collaborate on any mathematics or ML project.
 - 💬 Ask me about anything you want, I'll always try to help.
-- 📫 How to reach me: rosadodav4@gmail.com
-- ⚡ Fun fact: Tuesday and Thursday afternoons I am playing beach volleyball.
+- 📫 How to reach me: dav.rosado4@gmail.com
+- ⚡ Fun fact: Wednesday and Thursday afternoons I am playing beach volleyball.
+- 🎤 Fun fact 2.0: Tuesday afternoon I am singing in a choir.
 - [Explore my Website!](https://davidrosado4.github.io/Webpage/) 🚀
 
 ## Skills
