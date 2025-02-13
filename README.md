@@ -9,7 +9,7 @@
 - 📫 How to reach me: dav.rosado4@gmail.com
 - ⚡ Fun fact: Wednesday and Thursday afternoons I am playing beach volleyball.
 - 🎤 Fun fact 2.0: Tuesday afternoon I am singing in a choir.
-- [Explore my Website!](https://davidrosado4.github.io/Webpage/) 🚀
+- [Explore my Website!](https://davidrosado4.github.io/cv-web/) 🚀
 
 ## Skills
 
